@@ -24,8 +24,8 @@
 | 5 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
 | 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
 | 7 | Myndvinnsla | 6 | - | 15 |
-| 8 | Lokaverkefni | _**Lykilmatsþáttur**_  | 7 | 20 | - |
-| 9 | Lokaverkefni | _Síðasti kennsudagur 28/02_ |  |  | 
+| 8 | Lokaverkefni | _**Lykilmatsþáttur**_  | - | 20 | - |
+| 9 | Lokaverkefni | |  |  | 
 | 10 | _Námsmat_ | Samtals | 50 | 50 |
 
 ---
@@ -41,7 +41,7 @@
 | 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
 | 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 8 | Lokaverkefni, hönnun vefs | Video | Audio | 
-| 9 | Lokaverkefni, hönnun vefs | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið | 
+| 9 | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið | _Síðasti kennsudagur 28/02_ |
 -->
 
 ---
