@@ -41,7 +41,7 @@
 | 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
 | 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 8 | Lokaverkefni, hönnun vefs | Video | Audio | 
-| 9 | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið | _Síðasti kennsudagur 28/02_ |
+| 9 | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið |  | _Síðasti kennsudagur 28/02_ |
 
 ---
  
@@ -65,6 +65,6 @@
 
 ---
 
-#### [Bjargir: 24H-verkefni/wiki](https://github.com/vefgrunnur/24H-verkefni/wiki)
+#### [Bjargir: 25V-verkefni/wiki](https://github.com/vefgrunnur/25V-verkefni/wiki)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
