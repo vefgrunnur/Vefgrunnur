@@ -65,6 +65,6 @@
 
 ---
 
-#### [Bjargir: 25V-verkefni/wiki](https://github.com/vefgrunnur/25V-verkefni/wiki)
+#### [Bjargir: 25V-verkefni/wiki](https://github.com/vefgrunnur/25V_verkefni/wiki)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
