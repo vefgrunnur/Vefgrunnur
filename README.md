@@ -30,7 +30,7 @@
 
 ---
 
-### Vikuáætlun spönn 2
+### Vikuáætlun spönn 1
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
@@ -42,7 +42,6 @@
 | 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 8 | Lokaverkefni, hönnun vefs | Video | Audio | 
 | 9 | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið | _Síðasti kennsudagur 28/02_ |
--->
 
 ---
  
