@@ -38,7 +38,7 @@
 | 3 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
 | 4 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
 | 5 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 6 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
 | 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 8 | Lokaverkefni, hönnun vefs | Video | Audio | 
 | 9 | Kortastaðsetning í _iframe_ | Frágangur og uppsetning á internetið |  | _Síðasti kennsudagur 28/02_ |
