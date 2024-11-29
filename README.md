@@ -24,7 +24,7 @@
 | 5 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
 | 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
 | 7 | Myndvinnsla | 6 | - | 15 |
-| 8 | Lokaverkefni | _**Lykilmatsþáttur**_  | - | 20 | - |
+| 8 | Lokaverkefni - _**Lykilmatsþáttur**_  | 7 | 20 | - |
 | 9 | Lokaverkefni | |  |  | 
 | 10 | _Námsmat_ | Samtals | 50 | 50 |
 
