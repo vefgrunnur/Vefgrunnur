@@ -59,7 +59,7 @@
 
 ### Verkefnaskil 
 
--  Tímaverkefni er unnið í lok verkefna 1 til 6 í síðustu kennslustund hvers verkefnis
+-  Tímaverkefni er unnið í lok verkefna 2, 4 og 6 í síðustu kennslustund hvers verkefnis
 -  Tímaverkefnunum er skilað í Innu/VEFÞ1VG05AU/verkefni{n}
 -  Æfingar sem fylgja verkefnalýsingu er skilað í sömu verkefnaskil 
 
