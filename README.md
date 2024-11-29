@@ -12,7 +12,7 @@
 
 ### Námsáætlun
 
-#### 2025 haust, spönn 1. 
+#### 2025 vor, spönn 1. 
 
 <!-- breitt vægi á verkefni 2 og 3 (vægi víxlast) -->
 
