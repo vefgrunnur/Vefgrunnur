@@ -1,4 +1,4 @@
-# Letur, litir og leiðakerfi 
+# Letur- og litaval. Leiðakerfi og staðsetning taga
 
 ### Markmið:
 
