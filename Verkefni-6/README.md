@@ -67,7 +67,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 ### Námsmat
 
 1. 25% Stór forsíðumynd 
-1. 25% SMyndir í 2 dalka röð
+1. 25% Myndir í 2 dalka röð
    * .col-23 og .col-32  
 1. 25% Mynd með gegnsæjum bakgrunni	(_.png_)
 1. 25% Æfingaverkefni
