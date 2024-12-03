@@ -38,13 +38,13 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 ### Leiðakerfi vefs (_e. navigation_)
 
-#### Efnisyfirlit (_menu_)
+#### Innra efnisyfirlit (_Relative links_)
 
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og innri tengla í gamanmal.html
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
   * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
 * Í stórum skjáum er ákveðin staðsetning innra efnisyfirlits (_position: sticky_) 
-* Í litlum skjáum er innraefnisyfirlitið efst á síðu (_position: absolute_)  
+* Í litlum skjáum er innra efnisyfirlitið efst á síðu (_position: absolute_)  
   * Neðst hægra í hægra horni vafrans er hnappur sem vísar efst á vefsíðuna
 
 #### Neðanmálsgrein (_footer_)
