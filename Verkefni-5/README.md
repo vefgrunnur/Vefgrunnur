@@ -43,6 +43,7 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og innri tengla í gamanmal.html
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
   * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
+* Ákveðin staðsetning innra efnisyfirlits (_position: sticky_)
 
 #### Neðanmálsgrein (_footer_)
 
@@ -54,13 +55,17 @@ Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 
 ---
 
+
+
+
 ### Námsmat
 
 #### Æfingaverkefni 10%
 
-* 3% 5.1 Leturval
-* 3% 5.2 Litaval 
-* 4% 5.3 Leiðakerfi
+* 2% 5.1 Leturval
+* 2% 5.2 Litaval 
+* 3% 5.3 Leiðakerfi
+* 3% Ákveðin staðsetning taga. (_position: absolute - fixed - sticky_)
 
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
 
