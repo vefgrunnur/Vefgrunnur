@@ -124,9 +124,9 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 ---
 
-### Lykilmatsþáttur
+### Lykilmatsþáttur 20%
 
-#### Tímaverkefni 20%
+#### Tímaverkefni 15%
 
 * **Vefsíða með viðmiðum**
     * Farsímar (_Mobile_): 0 – 37.5rem (600px)  _eins dálks hönnun_  
@@ -136,6 +136,8 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     * Efni vefsíðunnar er miðjusett (_margin:auto;_) í stærri skjáum (100rem)
 *  **Efnisyfirlit sveigjanlegt**
     * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
+
+#### Æfingaverkefni 5%
 
 > Skil á verkefni 4 lokast þegar kennslutíma tímaverksefnisins er lokið
 
