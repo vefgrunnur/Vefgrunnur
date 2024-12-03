@@ -49,16 +49,13 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 #### Neðanmálsgrein (_footer_)
 
-Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
+Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 
-* Tenglar sem vísar á verkefni 1 - 5
+* Tenglar sem vísar á verkefni 1 - 5 (_Relative links_)
 * Tenglar sem vísa á aðra vefi á internetinu (_absolute links_) 
 * Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
 
 ---
-
-
-
 
 ### Námsmat 10%
 
