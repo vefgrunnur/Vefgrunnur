@@ -58,9 +58,7 @@ Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 
 
 
-### Námsmat
-
-#### Æfingaverkefni 10%
+### Námsmat 10%
 
 * 2% 5.1 Leturval
 * 2% 5.2 Litaval 
