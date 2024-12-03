@@ -70,7 +70,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 1. 25% SMyndir í 2 dalka röð
    * .col-23 og .col-32  
 1. 25% Mynd með gegnsæjum bakgrunni	(_.png_)
-1. 25% Æfingaverekefni
+1. 25% Æfingaverkefni
 
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
