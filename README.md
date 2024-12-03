@@ -51,7 +51,7 @@
 1. verkefni 15%. CSS, Box Modelið og display - **Tímaverkefni**
 1. verkefni 10%. Grid og Flex
 1. verkefni 20%. Sveigjanleg hönnun. -  **Tímaverkefni**, _**Lykilmatsþáttur**_
-1. verkefni 10%. Letur- og litaval. Leiðakerfi og og staðsetning taga
+1. verkefni 10%. Letur- og litaval. Leiðakerfi og staðsetning taga
 1. verkefni 15%. Myndvinnsla  - **Tímaverkefni**
 1. lokaverkefni 20%. Video, audio og iframe. -  _**Lykilmatsþáttur**_
 
