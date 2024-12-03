@@ -7,6 +7,7 @@ Nemendur geta:
 * unnið með mismunandi leturgerðir í vefsíðu frá [Google Fonts](https://fonts.google.com/)
 * fundið samræmi í letur- og litanotkun miðað við efni vefs 
 * skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_)
+* staðsett efni á ákveðnum stað í vefsíðu 
 
 ---
 
