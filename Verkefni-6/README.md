@@ -70,7 +70,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 1. 25% Mynd með gegnsæjum bakgrunni	(_.png_)
 1. 20% Myndir í 2/3 og 3/2 dálka röðum 
    * .col-23 og .col-32  
-1. 5% OPen Sans letur af _Google fonts_
+1. 5% Open Sans letur af _Google fonts_
 2. 5% Tenglar virkir í efnisyfirliti  
 1. 20% Æfingaverkefni
 
