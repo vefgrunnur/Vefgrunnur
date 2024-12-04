@@ -66,11 +66,13 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 
 ### Námsmat
 
-1. 25% Stór forsíðumynd 
-1. 25% Myndir í 2 dalka röð
-   * .col-23 og .col-32  
+1. 25% Stór forsíðumynd
 1. 25% Mynd með gegnsæjum bakgrunni	(_.png_)
-1. 25% Æfingaverkefni
+1. 20% Myndir í 2/3 og 3/2 dálka röðum 
+   * .col-23 og .col-32  
+1. 5% OPen Sans letur af _Google fonts_
+2. 5% Tenglar virkir í efnisyfirliti  
+1. 20% Æfingaverkefni
 
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
