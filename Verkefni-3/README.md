@@ -6,7 +6,7 @@ Nemendur geta:
 
 - endurraðað tögum með Flex stílum
 - hannað skipulag (_layout_) vefsíðu með CSS grid stílum
-- sett upp vefsíðu og unnið eftir eigin skipulagi
+- skipulagt vefsíðu og sett efni síðunnar í dálka
 
 ### 3.1 Display Flexbox
 
