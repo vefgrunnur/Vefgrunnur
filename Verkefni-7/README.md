@@ -1,4 +1,4 @@
-# Íhlutir (API) og staðsetning taga
+# Íhlutir (API)
 
 ### Markmið:
 
