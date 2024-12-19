@@ -44,7 +44,7 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
   * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
 * Í stórum skjáum er ákveðin staðsetning innra efnisyfirlits (_position: sticky_) 
-* Í litlum skjáum er innra efnisyfirlitið efst á síðu (_position: absolute_)  
+* Í litlum skjáum er innra efnisyfirlitið þar sem það er sett á síðu (_position: relative_)  
   * Neðst hægra í hægra horni vafrans er hnappur sem vísar efst á vefsíðuna
 
 #### Neðanmálsgrein (_footer_)
