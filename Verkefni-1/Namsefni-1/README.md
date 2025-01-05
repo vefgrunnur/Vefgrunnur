@@ -1,8 +1,10 @@
 # Uppsetning HTML vefsíðu 
 
+Dæmi:
+
 ```HTML
 
-<!DOCTYPE html><!-- Nýasta útgáfa HTML. Ef yfilýsingin er ekki tekin fram notar vafrinn 4. útgáfuna -->
+<!DOCTYPE html><!-- Nýasta útgáfa HTML. Ef "Doctype" yfirlýsingin er ekki tekin fram notar vafrinn 4. útgáfu HTML -->
 <html lang="is">
 <head>
     <meta charset="UTF-8">
