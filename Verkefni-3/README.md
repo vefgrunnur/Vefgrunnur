@@ -46,10 +46,10 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 ### Námsmat 15% af heildareinkunn
 
 - 3.1 Flex raðir og dálkar
-- 3.3 Grid dálkar ` col-2, col-3 og col-4 `
-- 3.4 Vefsíða sett upp í CSS Grid skipulagi og HTML5 rithætti - (_Semantics_)
-  - 3.4.1 Grid Template Columns
-  - 3.4.2 Grid Template Areas
+- 3.2 Grid dálkar ` col-2, col-3 og col-4 `
+- 3.3 Vefsíða sett upp í CSS Grid skipulagi og HTML5 rithætti - (_Semantics_)
+  - 3.3.1 Grid Template Columns
+  - 3.2.2 Grid Template Areas
 
 ### Verkefnaskil
 
