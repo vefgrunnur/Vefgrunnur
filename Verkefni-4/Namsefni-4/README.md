@@ -34,7 +34,7 @@ body {
 /* Tölvuskjár, computer screen */
 @media only screen and (min-width: 80rem) {  /* skjáir sem eru stærri en 1280px */
 	body {
-		max-width: 76rem; /* 4rem spássía */
+		max-width: 80rem; 
 		margin: 0 auto;  /* efni body miðjusett */ 
 	}
 }
