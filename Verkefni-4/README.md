@@ -129,10 +129,10 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 #### Tímaverkefni 15%
 
 * **Vefsíða með viðmiðum**
-    * Farsímar (_Mobile_): 0 – 37.5rem (600px)  _eins dálks hönnun_  
-    * Spjaldtölvur (_Tablet_): 48rem (768px) _tveggja dálka hönnun_
-    * Fartölvur (_Laptop_): 60rem (960px) _3 dálka hönnun_
-    * Borðtölvur (_Desktop_): 80rem (1280px) _4 dálka hönnun_
+    * Farsímar (_Mobile_): 0 – 37.5rem (600px)  
+    * Spjaldtölvur (_Tablet_): 48rem (768px) 
+    * Fartölvur (_Laptop_): 60rem (960px) 
+    * Borðtölvur (_Desktop_): 80rem (1280px) 
     * Efni vefsíðunnar er miðjusett (_margin:auto;_) í stærri skjáum (100rem)
 *  **Efnisyfirlit sveigjanlegt**
     * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
