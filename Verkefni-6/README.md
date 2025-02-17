@@ -64,16 +64,22 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
         }
 ```
 
-### Námsmat
+### Námsmat 
 
-1. 25% Stór forsíðumynd
-1. 25% Mynd með gegnsæjum bakgrunni	(_.png_)
-1. 20% Myndir í 2/3 og 3/2 dálka röðum 
-   * .col-23 og .col-32  
-1. 5% Open Sans letur af _Google fonts_
-2. 5% Tenglar virkir í efnisyfirliti  
-1. 20% Æfingaverkefni
+#### Tímaverkefni 10%
 
+-	1% Leturgerðin “Open Sans” sótt af Google fonts
+-	1% Tenglar vísa á málsgreinar í vefsíðunni
+-	Skipting fosíðumyndar eftir skjástærðum
+  –	2% Farsímar (lóðrétt): 20rem - 37.5rem
+  –	2% Farsímar (lárétt): 37.5rem - 48rem
+  –	2% Spjaldtölvur: 48rem - 60rem
+  –	2% Fartölvur og tölvuskjáir: 60rem +
+-	2% Myndir í málsgreinum í réttri stærð og aðlagast dálki
+-	2% Mynd af höfundi með gagnsæjum grunni (transparent)
+-	1% Allar myndir í sér möppu (images/)
+
+#### Æfingaverkefi 5%
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
 
