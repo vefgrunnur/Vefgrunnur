@@ -71,10 +71,10 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 -	1% Leturgerðin “Open Sans” sótt af Google fonts
 -	1% Tenglar vísa á málsgreinar í vefsíðunni
 -	Skipting fosíðumyndar eftir skjástærðum
-  –	2% Farsímar (lóðrétt): 20rem - 37.5rem
-  –	2% Farsímar (lárétt): 37.5rem - 48rem
-  –	2% Spjaldtölvur: 48rem - 60rem
-  –	2% Fartölvur og tölvuskjáir: 60rem +
+   –	2% Farsímar (lóðrétt): 20rem - 37.5rem
+   –	2% Farsímar (lárétt): 37.5rem - 48rem
+   –	2% Spjaldtölvur: 48rem - 60rem
+   –	2% Fartölvur og tölvuskjáir: 60rem +
 -	2% Myndir í málsgreinum í réttri stærð og aðlagast dálki
 -	2% Mynd af höfundi með gagnsæjum grunni (transparent)
 -	1% Allar myndir í sér möppu (images/)
