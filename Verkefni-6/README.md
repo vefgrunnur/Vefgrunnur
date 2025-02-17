@@ -79,7 +79,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 -	2% Mynd af höfundi með gagnsæjum grunni (transparent)
 -	1% Allar myndir í sér möppu (images/)
 
-#### Æfingaverkefi 5%
+#### Æfingaverkefni 5%
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
 
