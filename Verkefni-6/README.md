@@ -73,7 +73,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 -	Skipting fosíðumyndar eftir skjástærðum
     - 2% Farsímar (lóðrétt): 20rem - 37.5rem
     - 2% Farsímar (lárétt): 37.5rem - 48rem
-    - 2% Spjaldtölvur: 48rem - 60rem
+    - 2% Spjaldtölvur: 48rem - 80rem
     - 2% Fartölvur og tölvuskjáir: 60rem +
 -	2% Myndir í málsgreinum í réttri stærð og aðlagast dálki
 -	2% Mynd af höfundi með gagnsæjum grunni (transparent)
