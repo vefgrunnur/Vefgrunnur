@@ -8,32 +8,34 @@ Nemendur geta:
 * tengt hljóðskrá (_audio_) á vefsíðu sem hægt er að spila í vafranum. 
 * sett [staðsetningarkort](https://www.google.is/maps/place/T%C3%A6knisk%C3%B3linn+-+H%C3%A1teigsvegur/@64.1390675,-21.9048536,17z/data=!3m1!4b1!4m5!3m4!1s0x48d674cc84500001:0x16719bf129fa31a7!8m2!3d64.1390675!4d-21.9026596) á vefsíðu (_footer_). 
 * Birt vef á [username.Github.io/subdomain](https://gjg.github.io/vef1-lokaverk2/)
----
 
-#### Nú átt þú að búa til vefsíðu sem fjallar um hljómsveit eða tónlistarmann. 
+#### Verklýsing
 
-* Uppsetning vefsíðunnar er í þínum höndum. 
-* Umfjöllunarefnið er valfrjálst (_má vera á ensku_)
+* Búðu til vefsíðu sem fjallar um hljómsveit eða tónlistarmann. 
+  * Uppsetning vefsíðunnar er í þínum höndum. 
 
 Í vefsíðunni eiga að vera eftirfarandi atriði
 
-1. Kvikmynd sótt af Youtube eða öðrum sambærilegum streymisveitum
-1. Kvikmyndin á að vera í **sveigjanlegum iframe** ramma
-1. Settu inn lag í `audio` tagið eða náðu í lagalista af streymisveitu
 1. Umfjöllun um hljómsveit eða tónlistarmann.
+    * Umfjöllunarefnið er valfrjálst (_má vera á ensku_)
+1. Kvikmynd sótt af Youtube eða öðrum sambærilegum streymisveitum
+   * Kvikmyndin á að vera í **sveigjanlegum iframe** ramma
+1. Settu inn lag í `audio` tagið og/eða náðu í lagalista af streymisveitu
 1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
-1. Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
-1. Settu inn lógó eða tákn sem er með fastri staðsetningu í tölvuskjánum
-1. HTML 5 ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndregin í sér línu.
+  * Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
+1. Frágangur
+  * HTML 5 ritháttur (_Semantics_) 
+  * CSS snyrtilega sett upp, hver skipun inndregin í sér línu
 
 #### Birting vefsíðu á internetinu
 
-Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [Bítlarnir (sýnidæmi)](https://vefgrunnur.github.io/synidaemi/lokaverkefni/2023/beatles/ferill.html)
-
-Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
+Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
 * [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
+* Sjá dæmi: [Bítlarnir (sýnidæmi)](https://vefgrunnur.github.io/synidaemi/lokaverkefni/2023/beatles/ferill.html)
+
+> Ef video á Youtube er með auglýsingum þá birtist það ekki í iframe á _localhost_. Vafrinn leyfir það ekki. Vidóið spilar samt sem áður á internetinu. 
 
 ### Lykilmatsþáttur 20%
 
