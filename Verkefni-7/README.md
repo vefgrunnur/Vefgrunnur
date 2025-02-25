@@ -22,7 +22,7 @@ Nemendur geta:
    * Kvikmyndin á að vera í **sveigjanlegum iframe** ramma
 1. Settu inn lag í `audio` tagið og/eða náðu í lagalista af streymisveitu
 1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
-  * Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
+   * Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
 1. Frágangur
   * HTML 5 ritháttur (_Semantics_) 
   * CSS snyrtilega sett upp, hver skipun inndregin í sér línu
