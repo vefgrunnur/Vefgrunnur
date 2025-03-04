@@ -8,7 +8,7 @@
 1. verkefni. [Myndvinnsla](Verkefni-6/)
 1. verkefni. [Innsetning miðla (API)](Verkefni-7/README.md) 
 
----
+<!--
 
 ### Námsáætlun
 
@@ -43,7 +43,7 @@
 | 8 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
 | 9 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Síðasti kennsludagur 28/02_ |
 
----
+--->
  
 ### Námsmat
 
