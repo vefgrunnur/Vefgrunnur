@@ -14,8 +14,6 @@
 
 #### 2025 vor, spönn 1. 
 
-<!-- breitt vægi á verkefni 2 og 3 (vægi víxlast) -->
-
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
 | 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
