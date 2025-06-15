@@ -8,23 +8,21 @@
 1. verkefni. [Myndvinnsla](Verkefni-6/)
 1. verkefni. [Innsetning miðla (API)](Verkefni-7/README.md) 
 
-<!--
-
 ### Námsáætlun
 
-#### 2025 vor, spönn 1. 
+#### 2025 haust, spönn 1. 
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
-| 3 | Box módelið og eiginleikar taga (_display:_) | 2 | - | 15 |
-| 4 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
-| 5 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
-| 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
-| 7 | Myndvinnsla | 6 | - | 15 |
-| 8 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
-| 9 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | 20 | - |
-| 10 | _Námsmat_ | Samtals | 50 | 50 |
+| 34 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
+| 35 | Box módelið og eiginleikar taga (_display:_) | 2 | - | 15 |
+| 36 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
+| 36 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
+| 37 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
+| 38 | Myndvinnsla | 6 | - | 15 |
+| 39 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
+| 40 - 41 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | 20 | - |
+| 42 | _Námsmat_ | Samtals | 50 | 50 |
 
 ---
 
@@ -32,16 +30,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 2 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 3 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
-| 4 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
-| 5 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
-| 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
-| 8 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 9 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Síðasti kennsludagur 28/02_ |
-
---->
+| 34 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 35 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
+| 36 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
+| 37 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
+| 38 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 39 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
+| 40 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
+| 41 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Verkefnaskil 13.10. Kl. 23:59_ |
  
 ### Námsmat
 
@@ -63,6 +59,6 @@
 
 ---
 
-#### [Bjargir: 25V-verkefni/wiki](https://github.com/vefgrunnur/25V_verkefni/wiki)
+#### [Bjargir: Vefgrunnur/wiki](https://github.com/vefgrunnur/25V_verkefni/wiki)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
