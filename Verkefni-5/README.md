@@ -69,7 +69,46 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 #### Einkunn verður birt í Innu
 
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-5/Namsefni-5)
+#### [Námsefni](Namsefni-5)
+
+#### Letur og _leturfræði_
+
+* [Línulengd og línuhæð](https://kickpoint.ca/the-readability-formula-making-your-website-easy-to-read/)
+* [Litir og læsileiki](https://color.adobe.com/create/color-contrast-analyzer) 
+* [Læsileiki leturs](https://www.csun.edu/universal-design-center/web-accessibility-criteria-resizable-text)
+* [Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+* [Leturnotkun](http://tobiasahlin.com/typesource/)
+* [Samspil leturgerða](https://beautifulwebtype.com/)
+* [Typography - wikipedia](https://en.wikipedia.org/wiki/Typography)
+* [I Love Typography](http://ilovetypography.com/)
+* [Typography](http://www.typography.com/)
+
+
+#### Google letursafnið
+
+* [Google fonts](https://fonts.google.com/)
+* [Leturgerð valin af google fonts](https://github.com/vefgrunnur/24V-verkefni/tree/main/Verkefni-5/Namsefni-5/google-fonts)
+* [Font Optical Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing)
+* [Font Variation Settings](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings)
+* [Google Variable fonts](https://fonts.google.com/knowledge/using_type/loading_variable_fonts_on_the_web)
+
+
+#### Litir
+
+* [W3Schools veflitir](https://www.w3schools.com/colors/default.asp)
+* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
+  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
+* [50 litaþemu](https://www.canva.com/learn/website-color-schemes/)
+* [Colour Theory](https://en.wikipedia.org/wiki/Color_theory)
+* [Hue Value Saturation - HVS](https://learn.leighcotnoir.com/artspeak/elements-color/hue-value-saturation/)
+
+#### Bakgrunnslitir og listar 
+
+* [Bakgrunnslitir](http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
+* [Litaskali](https://www.w3schools.com/css/css3_gradients.asp)
+* [How to create linear gradient text using html and css](https://www.geeksforgeeks.org/how-to-create-linear-gradient-text-using-html-and-css/)
+* [Listar](http://learn.shayhowe.com/html-css/creating-lists/)
+
 
 #### Lesefni
 
