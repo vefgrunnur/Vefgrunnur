@@ -55,3 +55,11 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 #### Einkunn verður birt í Innu
 
 _Gangi þér vel_
+
+#### [Námseefni](Namsefni-7)
+
+#### Ýmislegt
+
+* [How to create linear-gradient text using css](https://www.geeksforgeeks.org/how-to-create-linear-gradient-text-using-html-and-css/)
+* [Blockqoute ""](https://stackoverflow.com/questions/4597699/css-3-adding-quote-symbol-to-beginning-of-blockquote)
+* [Efnisveitur :+1:](https://designresourc.es/)
