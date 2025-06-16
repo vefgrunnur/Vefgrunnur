@@ -89,7 +89,42 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 ---
 
+#### Myndvinnsla
+
+* [Picture tagið](https://www.w3schools.com/tags/tag_picture.asp)
+* [Photopea](https://www.photopea.com/) Myndvinnsluforrit sem keyrir í vafra
+  * [Photopea leiðbeiningar](https://www.photopea.com/tuts/)
+  * [How To Use Photopea 2024 (Tutorial for Beginner Designers - Youtube)](https://www.youtube.com/watch?v=JIdvvG9ZX7c)
+  * [Photopea innsetning á tölvu](https://www.photopea.com/tuts/install-photopea-to-your-device/)
+* [Gimp](https://www.gimp.org/) 
+  * Mac, Linux og PC myndvinnsluforrit
+* [Myndasafn Pxhere.com](https://pxhere.com/)
+
+#### "Dummy" myndir
+
+* [Lorem Flickr](https://loremflickr.com/)
+
+
+#### Tónlist og hljóð 
+
+* [Ashamaluev Music - SoundCloud free .mp3](https://soundcloud.com/ashamaluevmusic)
+* [www.chosic.com (_free music_ .mp3)](https://www.chosic.com/free-music/all/)
+* [Soundjay (.mp3)](https://www.soundjay.com/index.html)
+* [Audacity hljóðvinnsluforrit (_ókeypis_)](https://www.audacityteam.org/download/)
+
+#### Audio
+
+* [Html5 Audio display only Play - Pause and mute-buttons](https://stackoverflow.com/questions/13810085/html5-audio-display-only-play-pause-and-mute-buttons)
+* [Cross-browser audio basics](https://developer.mozilla.org/en-US/docs/Web/Media/Audio_and_video_delivery/Cross-browser_audio_basics)
+
+
+#### Video myndvinnsla
+
+* [Video bakgrunnur í html/css](https://blog.hubspot.com/website/video-background-css)
+* [OBS Open boadcast Servise](https://obsproject.com/)
+* [Any Video Converter](http://www.any-video-converter.com/products/for_video_free/)
+
 ### Bjargir
 
-[How To Use Photopea 2024 (Tutorial for Beginner Designers)](https://www.youtube.com/watch?v=JIdvvG9ZX7c)
+
 
