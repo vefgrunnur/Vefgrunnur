@@ -105,26 +105,4 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 * [Lorem Flickr](https://loremflickr.com/)
 
 
-#### Tónlist og hljóð 
-
-* [Ashamaluev Music - SoundCloud free .mp3](https://soundcloud.com/ashamaluevmusic)
-* [www.chosic.com (_free music_ .mp3)](https://www.chosic.com/free-music/all/)
-* [Soundjay (.mp3)](https://www.soundjay.com/index.html)
-* [Audacity hljóðvinnsluforrit (_ókeypis_)](https://www.audacityteam.org/download/)
-
-#### Audio
-
-* [Html5 Audio display only Play - Pause and mute-buttons](https://stackoverflow.com/questions/13810085/html5-audio-display-only-play-pause-and-mute-buttons)
-* [Cross-browser audio basics](https://developer.mozilla.org/en-US/docs/Web/Media/Audio_and_video_delivery/Cross-browser_audio_basics)
-
-
-#### Video myndvinnsla
-
-* [Video bakgrunnur í html/css](https://blog.hubspot.com/website/video-background-css)
-* [OBS Open boadcast Servise](https://obsproject.com/)
-* [Any Video Converter](http://www.any-video-converter.com/products/for_video_free/)
-
-### Bjargir
-
-
 
