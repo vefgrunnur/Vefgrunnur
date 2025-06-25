@@ -78,7 +78,6 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 ### Verkefnaskil
 
 - Setjið öll gögn tímaverkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
-- Skil á verkefni 2 lokast þegar tímaverkefni er lokið
 
 #### Einkunn verður birt í Innu
 
