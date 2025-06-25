@@ -61,24 +61,23 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 ```
 
-### Námsmat 10% af heildareinkunn
+### Námsmat 15% af heildareinkunn
 
-- Rétt notkun taga, snyrtileg uppsetning HTML og CSS 2%
-- Tenglar stílaðir með hulduklösum 2%
-- Stór upphafsstafur 2%
-- Mynd inn í málsgrein 1%
-- Efnisyfirlit útlit og tenglar  2%
-- Efnisorð  1%
+#### Tímaverkefni 10%
 
-### Verkefnaskil í Innu
+- 2.1 Box módelið 
+- 2.2 "_display_" stillingar  
+- 2.3 Display: float
+- 2.4 HTML5 ritháttur
+- 2.5 Hulduklasar _Pseudo classes_
+- Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
 
-- Setjið tímaverkefnið í **.zip** skrá skilið í verkefni 2 
-  - 1 html síða
-  - 1 stílsíða 
-- Skilið æfingaverkefnum líka í .zip skrá
+#### Æfingaverkefni 5%
 
+### Verkefnaskil
 
-_Gangi þér vel_ 👍
+- Setjið öll gögn tímaverkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
+- Skil á verkefni 2 lokast þegar tímaverkefni er lokið
 
 #### Einkunn verður birt í Innu
 
