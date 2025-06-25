@@ -65,14 +65,15 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 #### Tímaverkefni 10%
 
+- Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
+
+#### Æfingaverkefni 5%
+
 - 2.1 Box módelið 
 - 2.2 "_display_" stillingar  
 - 2.3 Display: float
 - 2.4 HTML5 ritháttur
 - 2.5 Hulduklasar _Pseudo classes_
-- Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
-
-#### Æfingaverkefni 5%
 
 ### Verkefnaskil
 
