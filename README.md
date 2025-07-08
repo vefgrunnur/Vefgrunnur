@@ -15,11 +15,11 @@
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
 | 34 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
-| 35 | Box módelið og eiginleikar taga (_display:_) | 2 | - | 15 |
+| 35 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
 | 36 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
-| 36 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
+| 36 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
 | 37 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
-| 38 | Myndvinnsla | 6 | - | 15 |
+| 38 | Myndvinnsla | 6 | 5 | 10 |
 | 39 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
 | 40 - 41 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | 20 | - |
 | 42 | _Námsmat_ | Samtals | 50 | 50 |
