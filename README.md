@@ -22,7 +22,7 @@
 | 38 | Myndvinnsla | 6 | 5 | 10 |
 | 39 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
 | 40 - 41 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | - | 20 |
-| 42 | _Námsmat_ | Samtals | 50 | 50 |
+| 42 | _Námsmat_ | Samtals | 45 | 55 |
 
 ---
 
